@@ -52,6 +52,26 @@ Price differences across outlet types reveal important insights into Nigeria’s
 
 On the other hand, food purchased directly from farmers or in open markets is relatively cheaper, indicating shorter supply chains and lower transaction costs. This highlights the role of intermediaries and distribution channels in shaping food prices.
 
-## Key Takeaway
+## Key Insights
 
-This project demonstrates how data-driven analysis can support understanding of food price dynamics in Nigeria, with implications for policy and food security.
+- Imported rice has the highest average price, indicating strong dependence on imports and exposure to exchange rate fluctuations.
+
+- Staple foods such as maize and sorghum remain relatively cheaper, suggesting their importance for food security among low-income households.
+
+- Food prices show a gradual stabilization over time, possibly reflecting market adjustment after periods of volatility.
+
+- Price variation across commodities highlights structural differences in supply chains and production systems.
+
+## Economic Interpretation
+
+The observed price differences across food commodities reflect broader structural challenges in Nigeria’s food system, including supply chain inefficiencies, transportation costs, and dependence on imports.
+
+High prices of imported food items may also be linked to exchange rate volatility and inflationary pressures in the Nigerian economy.
+
+## Policy Implication
+
+Rising food prices can reduce household purchasing power and worsen food insecurity, particularly among low-income populations. Understanding price dynamics is therefore essential for designing targeted agricultural and economic policies.
+
+## Data Source
+
+The dataset is sourced from international and national food price monitoring systems, including FAO and World Food Programme databases. These datasets are widely used for tracking food price inflation and supporting economic policy decisions.
