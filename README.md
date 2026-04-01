@@ -3,7 +3,11 @@
 ## Project Overview
 This project demonstrates the use of SQL and Python to analyze food price dynamics in Nigeria, combining data engineering, statistical analysis, and economic interpretation to generate policy-relevant insights.
 
-## Objectives
+## Main Objective
+
+The objective of this project is to analyze food price dynamics in Nigeria using data-driven techniques, with a focus on identifying price patterns, regional disparities, and market structures that influence food accessibility and affordability.
+
+## Specific Objectives
 - Analyze price variation across major food commodities  
 - Examine differences in food prices across states and regions  
 - Compare prices across market structures (urban vs rural, retail vs farmgate)  
