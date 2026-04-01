@@ -1,9 +1,7 @@
 # Food Price Analysis in Nigeria
 
 ## Project Overview
-This project analyzes food price dynamics in Nigeria using a combination of SQL and Python. The objective is to understand how food prices vary across commodities, regions, and market structures, and to derive insights relevant to food security and policy.
-
----
+This project demonstrates the use of SQL and Python to analyze food price dynamics in Nigeria, combining data engineering, statistical analysis, and economic interpretation to generate policy-relevant insights.
 
 ## Objectives
 - Analyze price variation across major food commodities  
@@ -11,23 +9,20 @@ This project analyzes food price dynamics in Nigeria using a combination of SQL 
 - Compare prices across market structures (urban vs rural, retail vs farmgate)  
 - Identify trends in food prices over time
 
----
-
 ## Tools & Technologies
 - Python (Pandas, Matplotlib)  
 - SQL (SQLite)  
 - Jupyter Notebook  
 
----
-
 ## SQL Workflow
 The dataset was stored in a SQLite database to enable structured querying and aggregation.
-
 Key SQL operations performed:
 - Aggregation of prices by food item  
 - State-level price analysis  
 - Sector and outlet comparisons  
 - Time-series data extraction  
+
+## Analysis & Visualizations
 
 ## Time-Series Analysis
 <img width="989" height="490" alt="Average Food Price Trend Over Time" src="https://github.com/user-attachments/assets/bbefd570-f98b-4cb2-84d8-2dda2b22804e" />
