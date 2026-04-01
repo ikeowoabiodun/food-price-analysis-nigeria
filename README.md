@@ -56,3 +56,7 @@ Conversely, northern regions—being major agricultural production zones general
 Price differences across outlet types reveal important insights into Nigeria’s food value chain. Supermarkets and formal retail outlets tend to have higher prices, reflecting additional costs such as storage, packaging, and overhead expenses.
 
 On the other hand, food purchased directly from farmers or in open markets is relatively cheaper, indicating shorter supply chains and lower transaction costs. This highlights the role of intermediaries and distribution channels in shaping food prices.
+
+## Key Takeaway
+
+This project demonstrates how data-driven analysis can support understanding of food price dynamics in Nigeria, with implications for policy and food security.
