@@ -27,7 +27,7 @@ Key SQL operations performed:
 ## Time-Series Analysis
 <img width="989" height="490" alt="Average Food Price Trend Over Time" src="https://github.com/user-attachments/assets/bbefd570-f98b-4cb2-84d8-2dda2b22804e" />
 
-The time-series analysis shows how average food prices evolved over the observed period. Prices exhibit noticeable fluctuations, with an initial spike followed by relative stabilization. This pattern suggests the presence of short-term market shocks possibly due to supply disruptions, seasonal effects, or inflationary pressures—followed by gradual market adjustment.
+The time-series analysis shows how average food prices evolved over the observed period. Prices exhibit noticeable fluctuations, with an initial spike followed by relative stabilization. This pattern suggests the presence of short-term market shocks possibly due to supply disruptions, seasonal effects, or inflationary pressures followed by gradual market adjustment.
 
 Overall, the trend highlights the dynamic nature of food prices in Nigeria and the importance of continuous monitoring for effective policy response.
 
